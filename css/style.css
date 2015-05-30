@@ -866,9 +866,8 @@ footer a:hover {
     .intro-text {
         font-size: 25px;
     }
-
-
 }
+
 @media (max-width:768px) {
 	
 	.team.boxed-grey {
@@ -882,7 +881,7 @@ footer a:hover {
 		padding:100px 0 60px;
 		
 	}
-	
+
 }
 
 @media (max-width:480px) {
@@ -892,4 +891,20 @@ footer a:hover {
 		
 	}
 	
+}
+
+
+@media(min-width:903px) {
+	.gn-trigger {
+		visibility: collapse;
+		width: 0px !important;
+	}
+}
+
+
+@media (max-width:902px) {
+	.titles {
+		visibility: collapse;
+		width: 0px !important;
+	}
 }

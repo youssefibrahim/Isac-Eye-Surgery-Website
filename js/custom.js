@@ -5,7 +5,8 @@
 
 	//jQuery for page scrolling feature - requires jQuery Easing plugin
 	$(function() {
-		$('.gn-menu li a').bind('click', function(event) {
+		//$('.gn-menu li a').bind('click', function(event) {
+		$('.gn-menu-main li a').bind('click', function(event) {
 			var $anchor = $(this);
 			$('html, body').stop().animate({
 				scrollTop: $($anchor.attr('href')).offset().top
