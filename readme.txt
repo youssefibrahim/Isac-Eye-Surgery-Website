@@ -1,3 +1,2 @@
-Thanks for downloading this theme!
-
-Get more freebies, collection from http://bootstraptaste.com
+Personal website for Dr. Isac Mounir, Ophthamologist & Surgeon.
+Created using HTML, CSS, JavaScript and Bootstrap.
